@@ -7,7 +7,7 @@
   <project EXPORT="discard">[CONTIKI_DIR]/tools/cooja/apps/serial_socket</project>
   <project EXPORT="discard">[CONTIKI_DIR]/tools/cooja/apps/visualizer_screenshot</project>
   <simulation>
-    <title>Test increased-version simulation (without the malicious mote)</title>
+    <title>Test hello-flood simulation (without the malicious mote)</title>
     <randomseed>generated</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>

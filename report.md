@@ -1,6 +1,6 @@
 <center> <h1>Simulation Report</h1> </center>
 
-## Test increased-version simulation
+## Test hello-flood simulation
 
 ### 1. Introduction
 
@@ -41,7 +41,7 @@ The WSN configuration is depicted in Figures 1 and 2:
 The attack is composed of the following building blocks:
 
 
-- increased-version
+- hello-flood
 
 
 
